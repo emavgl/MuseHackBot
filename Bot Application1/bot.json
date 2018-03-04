@@ -1,0 +1,208 @@
+﻿{
+  "welcome.message": {
+    "text": "Ciao {0}, sono Musa il chatbot del MUSE. Sono qui per aiutarti a  pianificare la tua visita e suggerirti il percorso migliore in base ai tuoi interessi. Sei pronto?",
+    "buttons": [
+      { "title": "Andiamo al MUSE!" },
+      { "title": "Già visto" }
+    ]
+  },
+  "feedback.message": {
+    "text": "Ti è piaciuto il MUSE? Cosa ne pensi? Scrivilo qui. Ogni commento è gradito"
+  },
+  "dintorni.message": {
+    "text": "Sei sicuro di aver visto proprio tutto?",
+    "cards": [
+      {
+        "title": "Il MUSE non è solo a Trento, ci sono altre sedi qui vicino",
+        "buttons": [
+          {
+            "title": "Sedi territoriali",
+            "value": "http://www.muse.it/it/visita/Muse-sul-Territorio/Pagine/Il-Muse-sul-territorio.aspx",
+            "type": "openUrl"
+          }
+        ]
+      }
+    ]
+  },
+  "info.message": {
+    "cards": [
+      {
+        "title": "Pianfica il viaggio",
+        "text": "Info pratiche su: come prenotare i biglietti, come arrivare, dove alloggiare",
+        "buttons": [
+          {
+            "title": "Dove siamo",
+            "value": "http://www.muse.it/it/visita/come-arrivare/Pagine/default.aspx",
+            "type": "openUrl"
+          },
+          {
+            "title": "Dove alloggiare",
+            "value": "https://www.visittrentino.info/it/dove-dormire/lista-alloggi",
+            "type": "openUrl"
+          },
+          {
+            "title": "Gli sconti",
+            "value": "https://www.visittrentino.info/it/dove-dormire/lista-alloggi",
+            "type": "openUrl"
+          },
+          {
+            "title": "Orari e tariffe",
+            "value": "http://www.muse.it/it/visita/orari-tariffe/Pagine/Home.aspx",
+            "type": "openUrl"
+          }
+        ]
+      }
+    ]
+  },
+  "visita.message": {
+    "cards": [
+      {
+        "title": "Visita il MUSE",
+        "text": "Scopri cosa fare al MUSE in base ai tuoi interessi e personalizza il tuo tour",
+        "buttons": [
+          { "title": "Parti" },
+          { "title": "Informazioni" }
+        ]
+      }
+    ]
+  },
+  "selfie.message1": {
+    "text": "Posso chiederti un tuo selfie? Voglio vedere se riesco a indovinare la tua età"
+  },
+  "selfie.message2": {
+    "text": "Sembra che tu abbia 'valore.età' anni... Se ho sbagliato, abbi pazienza, ma sono stanco"
+  },
+  "selfie.message3": {
+    "text": "Posso fare qualche domanda su di te?"
+  },
+  "selfie.message4": {
+    "text": "Sei da solo o con la tua famiglia?",
+    "buttons": [
+      { "title": "Da solo" },
+      { "title": "In famiglia" }
+    ]
+  },
+  "famiglia.message": {
+    "text": "Bene, ti consiglio allora questo percorso per tutta la tua famiglia",
+    "buttons": [ { "text": "Scopri il Maxi Ooh!" } ]
+  },
+  "solo.message": {
+    "text": "Se sei da solo, ti consiglio questo percorso"
+  },
+  "cluster13-30.message": {
+    "text": "Che ne dici di guardare qualche foto del museo? Scegline una",
+    "cards": [
+      {
+        "text": "La serra tropicale al piano interrato",
+        "image": "serra.jpg",
+        "buttons": [
+          {
+            "title": "Scopri",
+            "value": "http://www.muse.it/it/Esplora/percorso-espositivo/Piano-Interratto-Serra-Tropicale/Pagine/Piano-interrato-Serra-Tropicale.aspx",
+            "type": "openUrl"
+          }
+        ]
+      },
+      {
+        "text": "Una riproduzione fedele dell'Uomo di Neanderthal",
+        "image": "neanderthal.jpg",
+        "buttons": [
+          {
+            "title": "Dimmi di piu",
+            "value": "https://it.wikipedia.org/wiki/Homo_neanderthalensis",
+            "type": "openUrl"
+          }
+        ]
+      },
+      {
+        "text": "Una sfera interattiva per visitatori di tutte le età",
+        "image": "handson.jpg",
+        "buttons": [
+          {
+            "title": "Dimmi di piu",
+            "value": "http://www.muse.it/it/Esplora/percorso-espositivo/Piano-Primo/Pagine/Piano-Primo.aspx",
+            "type": "openUrl"
+          }
+        ]
+      },
+      {
+        "text": "La mostra sul genoma umano ti permetterà di scoprire tutti i segreti sul DNA",
+        "image": "genoma.jpg",
+        "buttons": [
+          {
+            "title": "Scopri",
+            "value": "https://www.genoma.muse.it",
+            "type": "openUrl"
+          }
+        ]
+      }
+    ]
+  },
+  "cluster31-42.message": {
+    "text": "Che ne dici di guardare qualche foto del museo? Scegline una",
+    "cards": [
+      {
+        "text": "La serra tropicale al piano interrato",
+        "image": "serra.jpg",
+        "buttons": [
+          {
+            "title": "Scopri",
+            "value": "http://www.muse.it/it/Esplora/percorso-espositivo/Piano-Interratto-Serra-Tropicale/Pagine/Piano-interrato-Serra-Tropicale.aspx",
+            "type": "openUrl"
+          }
+        ]
+      },
+      {
+        "text": "maxiooh",
+        "image": "maxiooh.jpg",
+        "buttons": [
+          {
+            "title": "Dimmi di piu",
+            "value": "http://www.muse.it/it/Esplor.ima/percorso-espositivo/Piano-Terra/Pagine/Piano-Terra.aspx",
+            "type": "openUrl"
+          }
+        ]
+      }
+    ]
+  },
+  "cluster43-62.message": {
+    "text": "Che ne dici di guardare qualche foto del museo? Scegline una",
+    "cards": [
+      {
+        "text": "Un'avventura tra i ghiacci ti aspetta al quarto piano",
+        "image": "ghiacci.jpg",
+        "buttons": [
+          {
+            "title": "Scopri",
+            "value": "http://www.muse.it/it/Esplora/percorso-espositivo/Piano-Quarto/Pagine/Piano-Quarto.aspx",
+            "type": "openUrl"
+          }
+        ]
+      },
+      {
+        "text": "Una vista spettacolare sulla valle dell'adige",
+        "image": "terrazza.jpg",
+        "buttons": [
+          {
+            "title": "Visita",
+            "value": "http://www.muse.it/it/Esplora/percorso-espositivo/Terrazza/Pagine/Terrazza.aspx",
+            "type": "openUrl"
+          }
+        ]
+      }
+    ]
+  },
+  "matching.message": {
+    "text": "Ora che il percorso è concluso posso mostrarti la tua affinità con l'uomo più famoso della preistoria: l'uomo di Neanderthal. Condivila con i tuoi amici. Mostrala alla cassa e riceverai un gadget come ricordo"
+  },
+  "news.message": { "text": "Ti piacerebbe rimanere aggiornato sui prossimi eventi del MUSE?" },
+  "positivefeedback.message": {
+    "text": "Grazie per la tua opinione! Speriamo di rivederti presto. 😁"
+  },
+  "negativefeedback.message": { "text": "Ci dispiace che il MUSE non sia stato all'altezza delle tue aspettative. Useremo il tuo feedback per migliorarci." },
+   "finishpercorso.message": {
+        "text": "Avvisami quando hai finito la tua visita al muse fai un fischio ;)",
+        "buttons": [ { "title": "Ho finito" } ]
+    }
+}
+
