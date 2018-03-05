@@ -24,4 +24,4 @@ If you want to restart and clean all the history, type the command ```/deletepro
 - Riccardo Busetti [https://github.com/RiccardoBusetti](https://github.com/RiccardoBusetti)
 - Marina Baglivo
 
-Thanks also to [Riccardo Lunelli](https://github.com/RiccardoBusetti]), Martina Zonca and [Diego Feltrin](https://www.linkedin.com/in/diegofeltrin/) from [Dimension Srl](http://www.dimension.it/) and to [OpenData Trentino](https://dati.trentino.it/) and [MUSE](http://www.muse.it/it/Pagine/default.aspx).
+Thanks also to [Riccardo Lunelli](https://github.com/luna97), Martina Zonca and [Diego Feltrin](https://www.linkedin.com/in/diegofeltrin/) from [Dimension Srl](http://www.dimension.it/) and to [OpenData Trentino](https://dati.trentino.it/) and [MUSE](http://www.muse.it/it/Pagine/default.aspx).
